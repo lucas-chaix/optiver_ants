@@ -1,5 +1,5 @@
 # optiver_ants
-This repository contains work about Optiver's Ant Puzzle:>
+This repository contains work about Optiver's Ant Puzzle:
 
 # Can you solve this puzzle?
 
