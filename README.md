@@ -1,5 +1,5 @@
 # optiver_ants
-This repository contains work about Optiver's Ant Puzzle:
+This repository contains work about Optiver's Ant Puzzle for the 2024 Graduate Applications:
 
 # Can you solve this puzzle?
 
